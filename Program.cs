@@ -13,6 +13,7 @@ namespace Angular2Demo
     {
         public static void Main(string[] args)
         {
+            string name ="Pavan";
             CreateHostBuilder(args).Build().Run();
         }
 
